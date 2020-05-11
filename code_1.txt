@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Function In Javascopt</title>
+</head>
+<body>
+<h3> tthis is a funtion in java script</h3>
+
+
+    
+</body>
+<script src="tute53.js">
+
+</script>
+</html>
